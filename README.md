@@ -1,5 +1,5 @@
 > [!CAUTION]
-> Premium Requiered.
+> Premium Requiered, as seen while testing.
 
 # Spotify CLI Client
 
