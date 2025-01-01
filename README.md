@@ -1,9 +1,6 @@
 > [!CAUTION]
 > Premium Requiered, as seen while testing.
 
-> [!IMPORTANT]
->If it doesn't work, I'm sorry, I'm a new dev.
-
 # Spotify CLI Client
 
 A lightweight and efficient Command-Line Interface (CLI) client for Spotify, built with Python. This tool allows you to search for tracks, play music, and control playback directly from the terminal.
@@ -109,3 +106,6 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 Mark Buchok (me)
 
 Happy listening!
+
+> [!IMPORTANT]
+>If it doesn't work, I'm sorry, I'm a new dev.
