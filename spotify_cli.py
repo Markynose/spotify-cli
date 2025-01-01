@@ -4,8 +4,8 @@ import argparse
 from rich import print
 
 # Spotify API credentials
-SPOTIFY_CLIENT_ID = 'your_client_id'
-SPOTIFY_CLIENT_SECRET = 'your_client_secret'
+SPOTIFY_CLIENT_ID = '0167636178ea42249c383357c841bbcc'
+SPOTIFY_CLIENT_SECRET = 'd6f172c15ca6447e94d8ded3560509c4'
 SPOTIFY_REDIRECT_URI = 'http://localhost:8888/callback'
 
 # Initialize Spotify client
